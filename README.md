@@ -1,8 +1,15 @@
-# React + Vite
+# Advista
+Advista is a sleek and professional website dedicated to providing comprehensive information on gaming setups, PlayStations, and related accessories. Our platform is designed for gamers of all levels who are looking to enhance their gaming experience with the best gear and setups.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+In-depth Reviews: Detailed reviews of the latest gaming setups and PlayStation models.
+Setup Guides: Step-by-step guides to help you create the perfect gaming environment.
+Accessory Recommendations: Suggestions for the best accessories to complement your gaming setup.
+User Contributions: Community-driven content where users can share their own setups and tips.
+Latest News: Stay updated with the latest trends and news in the gaming world.
+Technologies Used
+Frontend: HTML5, CSS3, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB
+Version Control: Git
+Deployment: Heroku
